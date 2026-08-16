@@ -15,6 +15,6 @@ and have access to your Go methods, there is also a dev server that runs on http
 to this in your browser, and you can call your Go code from devtools.
 
 ## Building
-
-To build a redistributable, production mode package, use `wails build`.
-# Monobyte-2
+67677676767676767676767676767667666
+To build a redistributable, product6767676666ion mode package, use `wails build`.
+# Monobyte-6yyc.mflflgkylhlylhlhouuuuuuuuu62
